@@ -37,7 +37,7 @@ t.test('package json directory glob', async (t) => {
         'folder/one/file',
         'folder/two/file',
         'package.json',
-      ])
+      ], files)
     })
   }
 })
